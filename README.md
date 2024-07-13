@@ -20,5 +20,3 @@ Access the API at: [http://localhost:3000/api/coffees](http://localhost:3000/api
 - ![dotenv](https://img.shields.io/badge/-dotenv-007A87)
 - ![nodemon](https://img.shields.io/badge/-nodemon-76D04B?logo=nodemon&logoColor=white)
 - ![Sequelize](https://img.shields.io/badge/-Sequelize-3994EF?logo=sequelize&logoColor=white)
-
-Feel free to modify and expand this project as needed!
